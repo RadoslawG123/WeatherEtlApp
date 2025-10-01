@@ -1,0 +1,10 @@
+# Virtual enviroment
+venv/
+
+# system files / editor files
+.DS-Store
+.vscode/
+
+# Other files
+__pycache__/
+*.pyc
