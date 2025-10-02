@@ -1,10 +1,13 @@
 # Virtual enviroment
 venv/
 
-# system files / editor files
+# System files / editor files
 .DS-Store
 .vscode/
 
 # Other files
 __pycache__/
 *.pyc
+
+# Secret files
+.env
